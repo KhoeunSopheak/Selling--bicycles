@@ -1,0 +1,45 @@
+body{
+    background-image: url(images/Frame\ 35\(1\).svg);
+    width: 100%;
+    height: 120vh;
+    background-position: center;
+    background-size: cover;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+.home-img{
+    display: flex;
+   
+}
+.home-img img{
+    width: 100%;
+    height: 100%;
+}
+.content{
+    font-size: 1.5rem;
+    float: right;
+    margin-right: 95px;
+    margin-top: 17%;
+}
+.content h1{
+    font-size: 3rem;
+}
+button{
+    display: flex;
+    width: 45%;
+    height: 65px;
+    margin-top: 13%;
+    margin-left: 1.5%;
+}
+.btn{
+    background-color: #e7e7e7;
+    padding: 20px 95px;
+    color: rgb(0, 0, 0);
+    font-size: 1.5rem;
+    border-radius: 30px;
+    border: 2px solid white;
+}
+
+.btn:hover{
+    background-color: aqua;
+    color: white;
+}
