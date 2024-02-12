@@ -12,6 +12,7 @@ body{
     background-size: cover;
     background-position: center;
     object-fit: cover;
+    margin-top: 75px;
     
 }
 .home-img{
