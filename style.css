@@ -379,7 +379,8 @@ swiper-slide {
 
         }
         .menu ul li a{
-            display: none;
+            font-size: 15px;
+            display: inline;
         }
         .logo i{
             display: flex;
