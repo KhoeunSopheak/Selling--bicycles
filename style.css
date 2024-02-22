@@ -94,7 +94,7 @@ label, #cancel{
         height: 40vh;
         background-color: rgb(143, 11, 219);
         left: -115%;
-        top: 17%;
+        top: 16%;
         transition: all 0.5s;
     }
     #check:checked ~ ul{
