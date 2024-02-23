@@ -52,7 +52,7 @@ header{
    transition: 0.3s ease; 
 
 }
-.menu ul li a:hover, .active{
+.menu ul li a:hover{
   border-bottom: 5px solid white;
   border-top: 5px solid white;
   border-right: 5px solid white;
@@ -91,10 +91,10 @@ label, #cancel{
     ul{
        position: fixed;
         width: 100%;
-        height: 45vh;
+        height: 40vh;
         background-color: rgb(143, 11, 219);
         left: -115%;
-        top: 20%;
+        top: 15%;
         transition: all 0.5s;
     }
     #check:checked ~ ul{
